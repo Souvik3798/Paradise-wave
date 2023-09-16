@@ -134,7 +134,7 @@
                                     <img height="200px" src="{{asset('img/footer_logo.png')}}" alt="">
                                 </a>
                             </div>
-                            <p>Care of Niva Dresses, Ground floor of PNB <br> , Junglighat, M.G. Road, Port Blair, Andaman & Nicobar Islands, India - 744103 <br>
+                            <p>Care of Paradise Waves, Ground floor of PNB <br> , Junglighat, M.G. Road, Port Blair, Andaman & Nicobar Islands, India - 744103 <br>
                                 <a href="#">+91 9679506486, +91 8900900490</a> <br>
                                 <a href="#">paradisewaves2023@gmail.com</a>
 

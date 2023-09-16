@@ -75,7 +75,7 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
-                                <h3>Care of Niva Dresses, Ground floor of PNB</h3>
+                                <h3>Care of Paradise Waves, Ground floor of PNB</h3>
                                 <p>Junglighat, M.G. Road, Port Blair, Andaman & Nicobar Islands, India - 744103</p>
                             </div>
                         </div>
