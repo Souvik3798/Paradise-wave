@@ -64,12 +64,12 @@
                                 <div class="row">
                                     <div class="col-lg-5 col-md-6">
                                         <div class="thumb padd_1">
-                                            <img src="https://images.unsplash.com/photo-1587920699329-642cdce3d43d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGFuZGFtYW4lMjBhbmQlMjBuaWNvYmFyJTIwaXNsYW5kcyUyMGluZGlhfGVufDB8fDB8fHww&w=1000&q=80" alt="">
+                                            <img src="https://images.unsplash.com/photo-1587920699329-642cdce3d43d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGFuZGFtYW4lMjBhbmQlMjBuaWNvYmFyJTIwaXNsYW5kcyUyMGluZGlhfGVufDB8fDB8fHww&w=1000&q=80" alt="Paradise Waves Images">
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6">
                                         <div class="thumb">
-                                            <img src="https://hindishayariweb.com/wp-content/uploads/andaman.jpg" alt="">
+                                            <img src="https://www.tourmyindia.com/states/andaman/images/best.jpg" alt="Paradise Waves Images">
                                         </div>
                                     </div>
                                 </div>
