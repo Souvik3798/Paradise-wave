@@ -240,7 +240,7 @@
                 <div class="col-lg-6">
                     <div class="section_title text-center mb_70">
                         <h3>Cruise</h3>
-                        <p>Cruise availability in the <strong>Paradise Waves</strong> offers travellers a convinient and scenic way to navigate the archipelago's stunning destinations. With several reputable cruise operators, such as Makruzz, Green Ocean and Coastal Cruise, visitors can choose from various classes and routes to suit their preferences and budgets.</p>
+                        <p>Cruise availability in the <strong>{{str_replace('_',' ',env('APP_NAME'))}}</strong> offers travellers a convinient and scenic way to navigate the archipelago's stunning destinations. With several reputable cruise operators, such as Makruzz, Green Ocean and Coastal Cruise, visitors can choose from various classes and routes to suit their preferences and budgets.</p>
                     </div>
                 </div>
             </div>
@@ -277,7 +277,7 @@
                 <div class="col-lg-6">
                     <div class="section_title text-center mb_70">
                         <h3>Places</h3>
-                        <p><strong>Paradise Waves</strong> welcomes you to discover the enchanting beauty of the Andaman and Nicobar Islands through our carefully crafted tours. Explore the captivating wonders of Shaheed Dweep, known for its pristine beaches and vibrant marine life, or embark on a cultural journey in Port Blair.</p>
+                        <p><strong>{{str_replace('_',' ',env('APP_NAME'))}}</strong> welcomes you to discover the enchanting beauty of the Andaman and Nicobar Islands through our carefully crafted tours. Explore the captivating wonders of Shaheed Dweep, known for its pristine beaches and vibrant marine life, or embark on a cultural journey in Port Blair.</p>
                     </div>
                 </div>
             </div>

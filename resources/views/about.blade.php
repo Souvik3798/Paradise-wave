@@ -30,7 +30,7 @@
                                 <div class="row">
                                     <div class="col-lg-9">
                                         <header>
-                                            <h1>Welcome to Paradise Waves: Your Gateway to Unforgettable Journeys</h1>
+                                            <h1>Welcome to {{str_replace('_',' ',env('APP_NAME'))}}: Your Gateway to Unforgettable Journeys</h1>
                                         </header>
 
                                         <main>
