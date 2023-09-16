@@ -98,7 +98,7 @@
                     <div class="col-lg-4 col-md-6 ">
                         <div class="single_place img">
                             <div class="thumb">
-                                <img src={{asset('storage/'.$package->image)}} alt="">
+                                <img src={{asset('storage/'.$package->image)}} alt="{{$package->name}}">
                                 <a href="#" class="prise">
                                     @if ($package->price!='')
                                         {{$package->price}}
@@ -253,7 +253,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single_trip img" style="border-radius: 10px;text-align: center">
                             <div class="thumb ">
-                                <img src={{asset('storage/'.$cruz->image)}} alt="">
+                                <img src={{asset('storage/'.$cruz->image)}} alt="{{$cruz->name}}">
                             </div>
                             <div class="info">
                                 {{-- <div class="date">
@@ -299,7 +299,7 @@
                                 </a>
                             </div>
                             <div class="thumb">
-                                <img style="border-radius: 50%" src={{asset('storage/'.$place->image)}} alt="">
+                                <img style="border-radius: 50%" src={{asset('storage/'.$place->image)}} alt="{{$place->name}}">
                             </div>
                         </div>
                 </div>

@@ -5,8 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>{{str_replace('_',' ',env('APP_NAME'))}}</title>
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Andaman Travel|Explore Paradise in Andaman and Nicobar Islands">
+    <meta name="description" content="Discover the Andaman and Nicobar Islands with our travel packages. Explore pristine beaches, vibrant coral reefs, and rich culture. Book your adventure now!">
+    <meta name="keywords" content="Andaman travel, Andaman Islands, Nicobar Islands, travel packages, honeymoon packages, family vacations, adventure travel, hotel booking, ferry services, water sports, Andaman destinations, island getaways">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="shortcut icon" type="image/x-icon" href={{asset('img/favicon.png')}}>
