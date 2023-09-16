@@ -49,7 +49,8 @@ class PackagesResource extends Resource
                         'Family' => 'Family',
                         'Solo' => 'Solo',
                         'Honeymoon' => 'Honeymoon',
-                        'Group' => 'Group'
+                        'Group' => 'Group',
+                        'Luxury' => 'Luxury'
                     ])
                     ->required()
                     ->searchable(),
