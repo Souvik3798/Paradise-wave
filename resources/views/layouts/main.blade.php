@@ -9,6 +9,7 @@
     <meta name="title" content="Andaman Travel|Explore Paradise in Andaman and Nicobar Islands">
     <meta name="description" content="Discover the Andaman and Nicobar Islands with our travel packages. Explore pristine beaches, vibrant coral reefs, and rich culture. Book your adventure now!">
     <meta name="keywords" content="Andaman travel, Andaman Islands, Nicobar Islands, travel packages, honeymoon packages, family vacations, adventure travel, hotel booking, ferry services, water sports, Andaman destinations, island getaways">
+    <meta name="google-site-verification" content="MCjjT4VGRN6zjfaWsHHCJCaI2qrK-ub1EptEkXitcro" />
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="shortcut icon" type="image/x-icon" href={{asset('img/favicon.png')}}>
