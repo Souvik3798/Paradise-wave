@@ -108,7 +108,7 @@
                                 </a>
                             </div>
                             <div class="place_info">
-                                <a href="destination_details.html"><h3>{{$package->name}}</h3></a>
+                                <a href={{url('detail/'.$package->id)}}><h3>{{$package->name}}</h3></a>
                                 <p>{{$package->type}}</p>
                                 <div class="rating_days d-flex justify-content-between">
                                     <span class="d-flex justify-content-center align-items-center">

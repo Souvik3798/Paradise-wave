@@ -82,14 +82,14 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3>+91 9679506486</h3>
+                                <h3>+91 9679506486, +91 8900900490</h3>
                                 <p>Mon to Fri 9am to 6pm</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3>paradisewaves@gmail.com</h3>
+                                <h3>paradisewaves2023@gmail.com</h3>
                                 <p>Send us your query anytime!</p>
                             </div>
                         </div>

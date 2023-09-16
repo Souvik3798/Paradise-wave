@@ -8,7 +8,7 @@ class ContactController extends Controller
 {
     public function index(Request $request)
     {
-        $to = "souvikbarua63@gmail.com";
+        $to = "paradisewaves2023@gmail.com";
         $from = $request->email;
         $name = $request->name;
         $subject = $request->subject;
@@ -21,9 +21,9 @@ class ContactController extends Controller
         $headers .= "MIME-Version: 1.0\r\n";
         $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
-        $subject = "You have a message from $name.";
+        $subject = "Paradise Waves Query by $name";
 
-        $logo = 'img/logo.png';
+        $logo = asset('img/logo.png');
         $link = '#';
 
         $body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";

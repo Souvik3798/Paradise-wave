@@ -87,7 +87,7 @@
                             <div class="col-xl-4 col-lg-4 d-none d-lg-block">
                                 <div class="social_wrap d-flex align-items-center justify-content-end">
                                     <div class="number">
-                                        <p> <i class="fa fa-phone"></i> 10(256)-928 256</p>
+                                        <p> <i class="fa fa-phone"></i> +91 8900900490</p>
                                     </div>
                                     <div class="social_links d-none d-xl-block">
                                         <ul>
@@ -132,8 +132,8 @@
                                 </a>
                             </div>
                             <p>Care of Niva Dresses, Ground floor of PNB <br> , Junglighat, M.G. Road, Port Blair, Andaman & Nicobar Islands, India - 744103 <br>
-                                <a href="#">+91 9679506486</a> <br>
-                                <a href="#">paradisewaves@gmail.com</a>
+                                <a href="#">+91 9679506486, +91 8900900490</a> <br>
+                                <a href="#">paradisewaves2023@gmail.com</a>
 
 
 
