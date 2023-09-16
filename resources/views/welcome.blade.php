@@ -206,7 +206,7 @@
                 <div class="col-xl-12">
                     <div class="testmonial_active owl-carousel">
                         @php
-                            $posts = \App\Models\Posts::all()->orderByDesc('id')->take(8);
+                            $posts = \App\Models\Posts::all()->take(8);
                         @endphp
                         @foreach ($posts as $post)
                             <div class="single_carousel">
