@@ -27,7 +27,7 @@
                        <ul class="blog-info-link mt-3 mb-4">
                           <li><a><i class="fa fa-clock-o"></i> {{date('F d ,Y',strtotime($place->created_at))}}</a></li>
                        </ul>
-                       <p class="excert">
+                       <p class="excert" style="text-align: justify">
                          {{$place->description}}
                        </p>
 
