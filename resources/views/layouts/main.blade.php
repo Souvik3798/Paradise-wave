@@ -113,6 +113,17 @@
             </div>
         </div>
     </header>
+    <style>
+        .whatsapp_float{
+            position: fixed;
+            bottom: 40px;
+            right: 20px;
+        }
+    </style>
+
+    <div class="whatsapp_float">
+        <img src="{{asset('img/WhatsApp_icon.png.webp')}}" width="50px" class="whatsapp_float_btn" alt="Paradise Waves Whatsapp">
+    </div>
     <!-- header-end -->
 
 
