@@ -14,7 +14,7 @@
                 <div class="col-lg-8 col-md-9">
                     <div class="destination_info">
                         <h3>Description</h3>
-                        <p>{{$packages->description}}</p>
+                        <p style="text-align: justify">{{$packages->description}}</p>
                         @foreach ($packages->days as $day)
                             <div class="single_destination">
                                 @if($day['days']<10)
