@@ -53,7 +53,7 @@
                                 <img src={{asset('storage/'.$activity->image)}} alt="">
                             </div>
                             <div class="content">
-                                <p class="d-flex align-items-center">{{$activity->name}} <a >
+                                <p class="d-flex align-items-center">{{$activity->name}} <a href="{{url('activity/'.$activity->id)}}">
                                     @php
                                         $c=1;
                                     @endphp
@@ -118,7 +118,7 @@
                                         <i class="fa fa-star"></i>
                                         <i class="fa fa-star"></i>
                                         @php
-                                            $total = App\Models\Posts::where('packages_id',$package->id)->get()->take(5)
+                                            $total = App\Models\Posts::where('packages_id',$package->id)->get()->take(10)
 
                                         @endphp
                                         <a href="#">({{count($total)}} Review)</a>
