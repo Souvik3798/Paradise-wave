@@ -249,7 +249,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         </style>
 
         <div class="whatsapp_float">
-            <img src="{{asset('img/WhatsApp_icon.png.webp')}}" width="50px" class="whatsapp_float_btn" alt="Paradise Waves Whatsapp">
+            <a href="https://wa.me/919679506486" target="_blank"><img src="{{asset('img/WhatsApp_icon.png.webp')}}" width="50px" class="whatsapp_float_btn" alt="Paradise Waves Whatsapp"></a>
         </div>
     </footer>
 
