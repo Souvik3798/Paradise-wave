@@ -197,7 +197,7 @@
                                     $places = \App\Models\Places::all();
                                 @endphp
                                 @foreach ($places as $place)
-                                    <li><a href="#">{{$place->name}}</a></li>
+                                    <li><a href="{{url('place/'.$place->id)}}">{{$place->name}}</a></li>
                                 @endforeach
                             </ul>
                         </div>
