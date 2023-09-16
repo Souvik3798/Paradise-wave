@@ -128,7 +128,7 @@
                         <div class="footer_widget">
                             <div class="footer_logo">
                                 <a href="#">
-                                    <img height="200px" src="img/footer_logo.png" alt="">
+                                    <img height="200px" src="{{asset('img/footer_logo.png')}}" alt="">
                                 </a>
                             </div>
                             <p>Care of Niva Dresses, Ground floor of PNB <br> , Junglighat, M.G. Road, Port Blair, Andaman & Nicobar Islands, India - 744103 <br>
