@@ -221,6 +221,7 @@
                 </div>
             </div>
         </div>
+        <a href="https://api.whatsapp.com/send?phone=8900900490&text=Hello">Whatsapp Chat</a>
         <div class="copy-right_text">
             <div class="container">
                 <div class="footer_border"></div>
